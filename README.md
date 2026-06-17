@@ -14,3 +14,9 @@ Python ve Tkinter kullanılarak geliştirilmiş SOS oyunu.
 
 - Python
 - Tkinter
+
+  ## Ekran Görüntüleri
+
+![Gameplay](images/gameplay.png)
+
+![Main Menu](images/main-menu.png)
